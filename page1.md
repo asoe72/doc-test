@@ -12,7 +12,7 @@
       <td style="text-align:left">3</td>
       <td style="text-align:left">
         <p>&#xC608;&#xC57D;</p>
-        <p>&#xC608;</p>
+        <p>&#xC608;&#xC57D;</p>
       </td>
     </tr>
   </tbody>
